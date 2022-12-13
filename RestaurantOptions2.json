@@ -1,0 +1,46 @@
+{
+    "RestaurantOptions": [
+    {
+    "RestaurantName ":"Applebee's",
+    "RestaurantDescription ":"Applebee's is an American company that develops, franchises, and operates the Applebee's Neighborhood Grill + Bar restaurant chain. The Applebee's concept focuses on casual dining, with mainstream American dishes such as salads, chicken, pasta, burgers, and riblets (Applebee's signature dish). However the price to eat here is pretty high compared to other restaurants on the list",
+    "RestaurantPrice ":"$$$",
+    "RestaurantImage":"https://github.com/codeboomer123/JSONProjectsIT315/blob/master/applebees.jpeg",
+    "RestaurantWebSite":"https://www.applebees.com/en/menu?utm_medium=cpc&utm_source=Google&utm_content=cpc&utm_campaign=Menu&gclid=EAIaIQobChMIrNvF5teH-wIVxNrICh306QhWEAAYASAAEgKRRPD_BwE&gclsrc=aw.ds",
+    "RestaurantID":1     
+    },
+    {
+    "RestaurantName ":"Wendy's",
+    "RestaurantDescription ":"Applebee's is an American company that develops, franchises, and operates the Applebee's Neighborhood Grill + Bar restaurant chain. The Applebee's concept focuses on casual dining, with mainstream American dishes such as salads, chicken, pasta, burgers, and riblets (Applebee's signature dish). However the price to eat here is pretty high compared to other restaurants on the list",
+    "RestaurantPrice ":"$",
+    "RestaurantImage":"https://github.com/codeboomer123/JSONProjectsIT315/blob/master/Wendys.jpeg",
+    "RestaurantWebSite":"https://www.applebees.com/en/menu?utm_medium=cpc&utm_source=Google&utm_content=cpc&utm_campaign=Menu&gclid=EAIaIQobChMIrNvF5teH-wIVxNrICh306QhWEAAYASAAEgKRRPD_BwE&gclsrc=aw.ds",
+    "RestaurantID":2
+    },
+
+    {
+    "RestaurantName ":"Subway",
+    "RestaurantDescription ":"Wendy's is an American fast food chain selling the usual fast food items such as burgers, salads, fries and sodas. However they also have chili which is something that is pretty unique to them. They are also known for their square patties on their burgers. Being a fast food restaurant it is really cheap and does not take too much to have a meal here",
+    "RestaurantPrice ":"$",
+    "RestaurantImage":"https://github.com/codeboomer123/JSONProjectsIT315/blob/master/subway.jpeg",
+    "RestaurantWebSite":"https://www.applebees.com/en/menu?utm_medium=cpc&utm_source=Google&utm_content=cpc&utm_campaign=Menu&gclid=EAIaIQobChMIrNvF5teH-wIVxNrICh306QhWEAAYASAAEgKRRPD_BwE&gclsrc=aw.ds",
+    "RestaurantID":3
+    },
+    {
+    "RestaurantName ":"Pizza Hut",
+    "RestaurantDescription ":"Applebee's is an American company that develops, franchises, and operates the Applebee's Neighborhood Grill + Bar restaurant chain. The Applebee's concept focuses on casual dining, with mainstream American dishes such as salads, chicken, pasta, burgers, and riblets (Applebee's signature dish). However the price to eat here is pretty high compared to other restaurants on the list",
+    "RestaurantPrice ":"$$",
+    "RestaurantImage":"https://github.com/codeboomer123/JSONProjectsIT315/blob/master/pizzaHut.jpeg",
+    "RestaurantWebSite":"https://www.applebees.com/en/menu?utm_medium=cpc&utm_source=Google&utm_content=cpc&utm_campaign=Menu&gclid=EAIaIQobChMIrNvF5teH-wIVxNrICh306QhWEAAYASAAEgKRRPD_BwE&gclsrc=aw.ds",
+    "RestaurantID":4
+    },
+    {
+    "RestaurantName ":"Panda Express",
+    "RestaurantDescription ":"Applebee's is an American company that develops, franchises, and operates the Applebee's Neighborhood Grill + Bar restaurant chain. The Applebee's concept focuses on casual dining, with mainstream American dishes such as salads, chicken, pasta, burgers, and riblets (Applebee's signature dish). However the price to eat here is pretty high compared to other restaurants on the list",
+    "RestaurantPrice ":"$$",
+    "RestaurantImage":"https://github.com/codeboomer123/JSONProjectsIT315/blob/master/pandaExpress.jpeg",
+    "RestaurantWebSite":"https://www.applebees.com/en/menu?utm_medium=cpc&utm_source=Google&utm_content=cpc&utm_campaign=Menu&gclid=EAIaIQobChMIrNvF5teH-wIVxNrICh306QhWEAAYASAAEgKRRPD_BwE&gclsrc=aw.ds",
+    "RestaurantID":5
+    }
+    ],
+    "Status": "OK"
+    }
